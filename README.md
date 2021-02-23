@@ -1,2 +1,2 @@
 # covid-ir
-Thermal detection of suspected covid-19 patients using deep-neural nets
+covid-19 thermal mass detection using deep-neural nets
