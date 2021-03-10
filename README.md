@@ -8,7 +8,7 @@ Thermal mass detection technique for detecting suspected fever symptomatic covid
 
 ## Extract Head Glimpses
 <p align='center'>
- <img src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/extract_glimpses.jpg'>
+ <img height='auto' width=1440 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/extract_glimpses.jpg'>
 </p>
 **NOTE : The percentage associated with covid suspect is of being detected as head and NOT for suspect**
  
