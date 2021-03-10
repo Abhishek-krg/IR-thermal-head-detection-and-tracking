@@ -22,7 +22,7 @@ Thermal mass detection technique for detecting suspected fever symptomatic covid
  <p align='center'>Sampling per pixel thermal data - Suspected patient</p>
 </p>
 
-## Suspect report
+## Suspect reporting
 <p align='center'>
  <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/FLIR_08908.png'>
 </p>
