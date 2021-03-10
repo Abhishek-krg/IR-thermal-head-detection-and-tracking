@@ -8,15 +8,17 @@ Thermal mass detection technique for detecting suspected fever symptomatic covid
 
 ## Extract Head Glimpses
 <p align='center'>
- <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/extract_glimpses.jpg'>
+ <img height='auto' width=720 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/extract_glimpses.jpg'>
 </p>
 
 ## Analysis
 <p align='center'>
- <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/nrml_heatmap_aggregation.jpg'/>
+ <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/nrml_heatmap_aggregation.jpg'>
  <p align='center'>Sampling per pixel thermal data - Healthy person</p>
+ 
  </br>
- <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/covid_heatmap_aggregation.jpg'/>
+ 
+ <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/covid_heatmap_aggregation.jpg'>
  <p align='center'>Sampling per pixel thermal data - Suspected patient</p>
 </p>
 
