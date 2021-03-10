@@ -14,13 +14,16 @@ Thermal mass detection technique for detecting suspected fever symptomatic covid
 ## Analysis
 <p align='center'>
  <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/nrml_heatmap_aggregation.jpg'>
+ <p align='center'>Sampling per pixel thermal data - Healthy person</p>
  </br>
  <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/covid_heatmap_aggregation.jpg'>
+ <p align='center'>Sampling per pixel thermal data - Suspected patient</p>
 </p>
 
 ## Suspect report
 <p align='center'>
  <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/FLIR_08908.png'>
 </p>
+
 **NOTE : The percentage associated with covid suspect is of being detected as head and NOT for suspect**
  
