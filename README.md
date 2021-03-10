@@ -15,9 +15,9 @@ Thermal mass detection technique for detecting suspected fever symptomatic covid
 <p align='center'>
  <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/nrml_heatmap_aggregation.jpg'>
  <p align='center'>Sampling per pixel thermal data - Healthy person</p>
- 
- </br>
- 
+</p>
+</br>
+<p align='center'>
  <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/covid_heatmap_aggregation.jpg'>
  <p align='center'>Sampling per pixel thermal data - Suspected patient</p>
 </p>
