@@ -1,0 +1,1 @@
+Thermal images needs to be rescaled for neural network ssd-efficientdet requires mean and std-dev as hyper-parameter for scaling the inputs sample code with computed mean and std-dev for FLIR's dataset is provided in common_preprocessor.py  
