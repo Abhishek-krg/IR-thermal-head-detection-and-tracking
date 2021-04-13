@@ -5,4 +5,5 @@ ssd-efficientdet model overrides should be passed as dictionary while calling ba
 efficientnet_base = efficientnet_model.EfficientNet.from_name(
         model_name=self._efficientnet_version,
         overrides={'rescale_input': False,'input_channels':1})
-        ```
+        
+```
