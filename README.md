@@ -1,6 +1,5 @@
-# covid-ir
-### COVID-19 thermal mass detection using deep-neural nets
-Thermal mass detection technique for detecting suspected fever symptomatic covid-19 patients using deep learning and thermal imaging.
+# IR Thermal head detection and tracking
+Thermal mass head, body detection and tracking using deep learning and thermal imaging.
 ## Raw Detections
 <p align='center'>
  <img src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/neural_processing.png'>
@@ -8,24 +7,15 @@ Thermal mass detection technique for detecting suspected fever symptomatic covid
 
 ## Extract Head Glimpses
 <p align='center'>
- <img height='auto' width=720 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/extract_glimpses.jpg'>
+ <img height='auto' width=720 src='https://github.com/Abhishek-krg/IR-thermal-head-detection-and-tracking/blob/main/images/extract_glimpses.jpg'>
 </p>
 
 ## Analysis
 <p align='center'>
- <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/nrml_heatmap_aggregation.jpg'>
- <p align='center'>Sampling per pixel thermal data - Healthy person</p>
+ <img height='auto' width=864 src='https://github.com/Abhishek-krg/IR-thermal-head-detection-and-tracking/blob/main/images/nrml_heatmap_aggregation.jpg'>
 </p>
 </br>
 <p align='center'>
- <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/covid_heatmap_aggregation.jpg'>
- <p align='center'>Sampling per pixel thermal data - Suspected patient</p>
+ <img height='auto' width=864 src='https://github.com/Abhishek-krg/IR-thermal-head-detection-and-tracking/blob/main/images/covid_heatmap_aggregation.jpg'>
 </p>
 
-## Suspect reporting
-<p align='center'>
- <img height='auto' width=864 src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/FLIR_08908.png'>
-</p>
-
-**NOTE : The percentage associated with covid suspect is of being detected as head and NOT for suspect**
- 
