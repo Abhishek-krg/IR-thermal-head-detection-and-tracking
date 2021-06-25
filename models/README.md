@@ -7,3 +7,6 @@ efficientnet_base = efficientnet_model.EfficientNet.from_name(
         overrides={'rescale_input': False,'input_channels':1})
         
 ```
+The overrides above along with the pre-processor will generate a single channel compatible object-detection model which can then be used for inference.
+
+Training the models can be a bit more complicated as the default tfrecord decoders are incompatible with single channel data produced by thermal cameras.
