@@ -14,3 +14,4 @@ def preprocess(inputs):
       return ((inputs / 255.0) - [[channel_offset]]) / [[channel_scale]]
     else:
       return inputs
+        
