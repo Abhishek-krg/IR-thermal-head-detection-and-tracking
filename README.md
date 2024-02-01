@@ -7,6 +7,7 @@ Thermal imaging is crucial in Advanced driver assistance systems(ADAS) and medic
  <img src='https://github.com/Abhishek-krg/covid-ir/blob/main/images/neural_processing.png'>
 </p>
 
+
 ## Thermal Analysis
 <p align='center'>
  <img height='auto' width=864 src='https://github.com/Abhishek-krg/IR-thermal-head-detection-and-tracking/blob/main/images/nrml_heatmap_aggregation.jpg'>
